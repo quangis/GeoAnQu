@@ -1,0 +1,355 @@
+﻿
+## [HQ] specify general spatial and temporal extent
+
+Question 58: Where are houses that have no plumbing
+Rephrased to: Where are houses that have no plumbing in Utrecht
+
+Question 61: Which emergency vehicle is closest to the accident
+Rephrased to: Which emergency vehicle is closest to the accident in Utrecht
+
+Question 90: Which towns in the area have experienced the greatest population growth in recent years
+Rephrased to: Which towns have experienced the greatest population growth in the Netherlands between 2000 to 2019?.
+
+Question 91: Where is the area of privately owned land of a suitable size, with adequate access from an existing road
+Rephrased to: Where is the area of privately owned land of a suitable size, with adequate access from an existing road in Utrecht
+
+Question 110: What is the pattern of accidents on ski pistes
+Rephrased to: What is the pattern of accidents on ski pistes in the Happy Valley
+
+Question 125: Where is a suitable place for opening a bank based on the mean center of customers
+Rephrased to: Where is a suitable place for opening a bank based on the mean center of customers in Utrecht
+
+Question 131: Where is a suitable place to open an office that is nearest to their best customers
+Rephrased to: Where is a suitable place to open an office that is nearest to their best customers in Oleander
+
+Question 132: Where is a suitable place to schedule meetings can be closest to most employees
+Rephrased to: Where is a suitable place to schedule meetings can be closest to most employees in Oleander
+
+Question 171: Where are the high output oil-well clustered
+Rephrased to: Where are the high output oil-well clustered in Saudi Arabia
+
+Question 173: Where are the hot or cold spots of crime frequency in Amsterdam
+Rephrased to: Where are the hot or cold spots of crime frequency for each neighborbood in Amsterdam
+
+Question 179: What is a breakdown of the area of land use inside the floodplain in Oleander
+Rephrased to: What are the land use inside the flood zones in Oleander
+
+Question 181: What are the attendance boundaries for the schools in Oleander
+Rephrased to: How many high school students are living in the school district of each senior high schools in Oleander
+
+Question 187: What property owners do own access easement to the lakeshore
+
+Question 189: What is the relationship between speed limit and street noise in Oleander
+Rephrased to: What is the percentage of noise-polluted areas in the city to the total area of the city
+
+Question 192: What are the noise mitigation zones around each runway in Schiphol airport
+Rephrased to: What areas are within 0.1km, 0.2km, and 0.3km of runways in Schiphol airport
+
+Question 193: Within the last month, how many calls were answered by a crew from a station that was not the closest to the scene
+Rephrased to: Within the last month, how many calls were answered by a crew from a station that was not the closest to the scene in Oleander
+
+Question 200: How did the population change over time
+Rephrased to: How did the population change over time in the US
+
+Question 204: Which buildings were affected by the changing tornado
+Rephrased to: Which buildings were affected by the changing tornado in Oleander
+
+============================================================
+
+## [HQ] break question
+
+Question 52: What areas do not have groundwater and natural resources in the UK
+Break into 52: What areas do not have groundwater in the UK
+Break into 476: What areas do not have natural resources in the UK
+
+Question 92: Where is the area of commercially zoned land, close to major transport routes and with a potential catchment of over 10000 customers
+Break into 93: Where are the commercial areas in Amsterdam
+Break into 477: Where are the areas closing to major transport routes in Amsterdam
+Break into 478: Where are the areas with a potential catchment of over 10000 customers in Amsterdam
+
+Question 142: What is the relationship between the average monthly sales of the Hispanic specialty stores and the distribution of the Hispanic population in Tarrant County, Texas
+Break into 142: What is the distribution of Hispanic food stores in Tarrant County, Texas
+Break into What is the distribution of Hispanic population per census block in Tarrant County, Texas
+
+Question 143: What is the relationship between the locations of stores and the population income levels in Amsterdam
+Break into 142: What is the distribution of Hispanic food stores in Tarrant County, Texas
+Break into 143: What is the distribution of population income levels per census block in Tarrant County, Texas 
+
+============================================================
+## [HQ] rephrase questions
+
+Question 7: What houses are for sale in neighborhoods with low crime rates in Utrecht 
+Rephrased to: What houses are for sale in neighborhoods with crime rates lower than 50 per 1000 residents in Utrecht
+
+Question 14: Where is the longest ski piste in Happy Valley ski resort 
+Rephrased to: Which ski piste is longest in the Happy Valley
+
+Question 16: Where are the areas of forestry land in Happy Valley ski resort
+Rephrased to: Where are forestry lands in Happy Valley ski resort
+
+Question 34: What types of buildings are mostly affected by a hurricane in Oleander
+Rephrased to: What buildings are affected by a hurricane in Oleander
+
+Question 40: What areas do have low precipitation and humidity in Spain
+Rephrased to: What areas do have precipitation lower than 40 mm in Spain
+
+Question 42: What areas are far away from the road network in Spain
+Rephrased to: What areas are more than 50km away from the roads in Spain
+
+Question 43: Where is the distribution area of little midwife toad in Spain in 2030
+Rephrased to: What is the distribution of presence probability for little midwife toad in Spain in 2030
+
+Question 45: Where is the biggest park in Utrecht
+Rephrased to: Which park is biggest in Utrecht
+
+Question 46: Where are freeways with 4 lanes in Netherlands
+Rephrased to: Which freeways do have 4 lanes in Netherlands
+
+Question 56: What areas are minimum 3km and maximum 5km away from the nearest road in UK
+Rephrased to: What areas are minimum 3km and maximum 5km away from the roads in UK
+
+Question 57: What areas are not within conservation areas in UK
+Rephrased to: What areas are  not conservation areas in UK
+
+Question 69: Where are areas of forestry in which Norwegian Spruce trees can be found in Europe
+Rephrased to: Which areas of forestry has Norwegian Spruce trees in Europe
+
+Question 77: Where are areas of forestry in Europe in which Norwegian Spruce trees can be found 
+Rephrased to: Where are areas of forestry in which Norwegian Spruce trees can be found in Europe”
+
+Question 80: Where can I find holiday accommodation that is within 1 km of a wind surfing beach and accessible by public transport in Italy
+Rephrased to: Where can I find holiday accommodation that is within 1 km of a wind surfing beach in Italy
+
+Question 81: Where is the flat land within 500 m of a major highway in the United Kingdom 
+Rephrased to: Where are the flat areas within 500 m of a major highway in the United Kingdom
+
+Question 84: If I move to a new home in Ina Boudier-Bakkerlaan 1 3483VA Utrecht, how far will I be from the office, gym or coffee shop
+Rephrased to: How far is the shortest route from the center of the resort to a new ski piste in Happy Valley
+
+Question 85: Where is the proposed wind farm location
+Rephrased to: Where is the best site for a wind farm in Portland, Australia
+
+Question 86: Where is the region in which the store will be located
+Rephrased to: Where is the best site for a new retail store in Toronto
+
+Question 88: What is the flow of traffic along major routes in this area 
+Rephrased to: What is the traffic flow along major routes in Utrecht
+
+Quesion 100: Which roads should be used for a scenic forest drive
+Rephrased to: Which roads pass through forest areas in UK
+
+Question 106: From where will the new ski piste be visible
+Rephrased to: What areas can see/view the wind farms in Amsterdam
+
+Question 118: What is the estimated casualty from a tsunami given affected coastlines in high-resolution satellite imagery of Indonesia
+Rephrased to: What areas are affected by the Boxing Day tsunami in Indonesia in 2004
+
+Question 122: Which trees are ready to be harvested given tree age in Utrecht
+Rephrased to: Which pine trees are older than age 30 in Utrecht
+
+Question 123: What political parties are favored in different counties of the United States
+Rephrased to: What are the political leaning for each county in the United States
+
+Question 126:Which bank branch is suitable to schedule a meeting based on the mean center of employees in Oleander
+Rephrased to:Which bank branch is near to the center of all the employees in Oleander
+
+Question 134: What is the distribution of West Nile Virus in the US
+Rephrased to: What are the standard distance circle of West Nile Virus in Fort Worth
+
+Questions 135： Do freeways have directional influence on fire responses of fire stations in Fort Worth
+Rephrased to: What is the directional trend in fire calls for each fire station in Fort Worth
+
+Question 138: What are the single family zoning categories in Utrecht
+Rephrased to: What are the single family zones in Utrecht
+
+Question 141: What is the monthly rate of arson given all fire department responses in Groningen
+Rephrased to: How many arsons of all the incidents in a month in Fort Worth
+
+Question 144: What intersections are more prone to auto accidents in Utrecht
+Rephrased to: What is the distribution of auto incidents in Utrecht
+
+Question 145: What is the population distribution in Tarrant County, Texas
+Repharsed to: What is the population distribution for each census block in Tarrant County, Texas
+
+Question 147: What is the construction trend given construction years of dwelling units in the city of Oleander
+Rephrased to: What are the construction years of dwelling units in the city of Oleander
+
+Question 148: What is the concentration of various ethnic groups in Amsterdam
+Rephrased to: What is the percentage of Hispanic population for each census block in Tarrant County, Texas
+
+Question 151: What is the portion of rental houses for the Hispanic population in Tarrant County, Texas
+Rephrased to: What is the portion of the Hispani population living in rental houses in Tarrant County, Texas
+
+Question 153: What are the election results for individual candidates in each precinct of Dallas
+Rephrased to: What are the vote totals for each precinct of Dallas
+
+Question 155: What is the population density by census block in the Dallas/Fort Worth metropolitan service area
+Rephrased to: What is the population density by census block in the Dallas metropolitan service area
+
+Question 156: What is the density of robberies for each police beat in Dallas/Fort Worth metropolitan service area
+Rephrased to: What is the density of robberies for each police beat in Dallas metropolitan service area
+
+Question 157: What are the areas with high population density in Utrecht
+Rephrased to: What are the areas with high concentration of rental units in Utrecht
+
+Question 160: What is the density of trees in parks in Oleander
+Rephrased to: What is the tree concentration in parks in Oleander
+
+Question 161: What is the density of elms in Oleander
+Rephrased to: What is the density surface of elms in Oleander
+
+Question 164: What are the directional trends for each year's tornadoes in Oleander
+Rephrased to: What are the directional trends for tornadoes in Oleander
+
+Question 165: What areas do have too few roads to handle the traffic in Oleander
+Rephrased to: What are the mean orientations of freeways in Oleander
+
+Question 166 Where are fire calls highly clustered in Fort Worth
+Rephrased to: To what extent are fire calls clustered in Fort Worth
+
+Question 168: Which neighborhood has the most clustered customers for a pizza chain in Amsterdam
+Rephrased to: To what extent are the flu cases dispersed in each 50 square km area in Amsterdam in 2019
+
+Question 169: Are fire calls randomly distributed among city blocks in Fort Worth
+Rephrased to: What are the nearest neighbor index of false fire alarms in Fort Worth
+
+Question 170: What is the relationship between clusters of fire calls and population density in the Netherlands
+Rephrased to: Where are the cluster of fire alarms with similar priority ranking in Fort Worth
+
+Question 172: What are the cluster of the low income households in the Tarrant County
+Rephrased to: Where are the clusters of high income or low income census blocks in Fort Worth
+
+Question 180: How many poll workers do each precinct need given the number of households that fall within each precinct
+Rephrased to: How many households that fall within each precinct in Dallas County
+
+Question 184: What is the percentage of each land-use type inside the notification zone for zoning change in the Netherlands
+Rephrased to: What is the percentage of each land-use type inside the changing zones in the Netherlands
+
+Question 186: What is a quite zone around a hospital that should be enforced by police in the Netherlands
+Rephrased to: What is a quiet zone around a hospital that should be enforced by police in the Netherlands
+
+Question 191: How lit are the areas of the city given locations of street lights and their wattage
+Rephrased to: How much of the city is well lit given the wattage of the street lights
+
+Question 196: How many buildings are within 1 minute, 2 minutes, and 3 minutes of driving time from a fire station given a road network in Oleander
+Rephrased to: How many buildings are within 3 minutes of driving time from a fire station given a road network in Oleander
+
+Question 197: What is the spread of plumes over time from a fire in a match factory
+Rephrased to: What is the change of plumes over time from a fire in a match factory
+
+Question 209: How did the water levels in a lake change each month
+Rephrased to: Which lakes have decreased in water level more than 3% in Texas from 2014 to 2016
+
+Question 226: How many choices do the population have in accessing primary schools in Rotterdam
+Rephrased to: What is the percentage of population under 1km distance to primary schools in Rotterdam
+
+Question 425: Do areas with the highest population density have the greatest number of health care facilities in Riverside-San Bernardino, CA
+Rephrased to: What relationship between population density and the number of health care facilities in each area in Riverside-San Bernardino, CA
+
+Question 357: What is the effect of scale when analysing accessibility and its effects on population change in the Netherlands
+Rephrazed to: What is the relationship between population change and transport accessibility in Finland, 1990-2008?
+
+Question 358: Are population change related to transport accessibility in Finland, 1990-2008
+Rephrased to: What is the potential accessibility by local road network for each 2*2km grid cell in Finland?
+
+Question 359: Which scales have good predictive ability when modelling transport accessibility and its effects on population change in Finland, 1990-2008
+Rephrased to: What is the potential accessibility by regional road network for each 2*2km grid cell in Finland?
+
+Question 407: What are the effects of the built environment (e.g. physical environment, land use patterns, the road network, and bicycle-specific facilities) on transportation choices (bicycling or driving) in Metro Vancouver, Canada
+Rephrased to: What are the relationship between the built environment (e.g. physical environment, land use patterns, the road network, and bicycle-specific facilities) transportation choices (bicycling or driving) in Metro Vancouver, Canada
+
+Question 477: Where are the areas closing to major transport routes in Amsterdam
+Rephrased to: What areas are within 1km from the major transport routes in Amsterdam
+
+Question 495: Which police stations has the largest average travel time to incidents with higher priority in Fort Worth
+Rephrased to: What is the standard distance circles of fire calls answered by each fire station in Fort Worth
+
+Question 497: Which police stations has the largest average travel time to incidents with higher priority in Fort Worth
+Rephrased to: What is the standard distance circles of higher priority fire calls answered by each fire station in Fort Worth
+
+============================================================
+
+## [HQ] add new questions
+
+Question 470: How scattered is the West Nile virus distributed in New York?
+
+============================================================
+
+## [HQ] remove questions
+
+Question 15: Where are the start position of ski piste in Happy Valley ski resort
+Question 22: For a neighborhood, how did the crime rate change from last year to this year in Amsterdam
+Question 23: What are the locations of fire stations in Fort Worth (Repeat)
+Question 29: Where did the hurricane dissipate in Oleander
+Question 47: Where are the freeways with traffic jams during rush hours in Netherlands
+Question 51: What areas do have suitable geology for nuclear waste in UK
+Question 53: What areas do have low population density in UK
+Question 55: What areas are accessible in UK
+Question 59: What is the condition of the water treatment plant at 270 Fleet
+Question 60: Which is the best way to send the recycling truck, given these pickup points
+Question 62: What is the pattern of public spending in areas where the majority of residents are African American in Oleander
+Question 63: Do more commercial buildings in earth-quake zones meet quake proofing specification than five years ago
+Question 64: At this rate, how long will it be before 99 percent of all commercial buildings meet specifications in the Netherlands
+Question 65: What would be the economic impact if development were restricted within 100 yards of the river
+Question 67: What is the relationship between the local microclimate, local factories, and the social structure of surrounding neighborhoods
+Question 68: What will be the need to adapt to the local public transport network and its capacity when a new neighborhood is built north of the town
+Question 73: Where are there over 10,000 potential customers within a 5-mile radius of a railway station
+Question 74: What will be the effect on traffic flows if a new theme park is built near A27 in Utrecht
+Question 75: What would be the time saving if we delivered our parcels using this route, rather than an alternative
+Question 78: Where are stone age settlements located in Europe
+Question 83: How are patterns of retailing changing in response to the development of out-of-town superstores in the US
+Question 88: What is the traffic flow along major routes in Utrecht
+Question 91: Where is the area of privately owned land of a suitable size, with adequate access from an existing road in Utrecht
+Question 93:If we located the wind farm here, from where would it be visible
+Question 94:What would be the impact on our closest existing store if a store is located to here
+Question 112:What is the effect of road widening on surrounding land uses
+Question 113:What will be the long-term consequences of continuing recreational activity for the landscape in Zdarske Vrchy
+Question 114:Where will damage from acid rain occur if a particular industrial plant continues to operate
+Question 116:Where is the best location for the reintroduction of black grouse in the Zdarske Vrchy
+Question 117:What is the best location for retaining water in the Zdarske Vrchy region
+Question 122:Which trees are ready to be harvested given tree age in Utrecht
+Question 128:Which areas are not serviced by libraries in Oleander
+Question 130:Where does the Fort Worth police department assign a specific task force to deal with the most dangerous crimes
+Question 171:Where are the high output oil-well clustered in Saudi Arabia
+Question 176:What pipes do need to be inspected given clogged storm drain inlets in Utrecht
+Question 202:How did areas of soil erosion change over time
+Question 205:What are traffic patterns at intersections based on readings of a traffic-counting device placed along a street in the Netherlands
+Question 206: How did the population of an animal herd change as the animals moved
+Question 208: In what areas did the literacy rate show a decreasing trend
+Question 413: How suitable is a position for building a windmill in Amsterdam
+Question 414: How suitable is a position for building a charging station in Utrecht
+Question 415: How suitable is an area for expanding A27 road in Utrecht
+Question 416: What areas do have high water levels near A27 road in Utrecht
+Question 417: What are the land cover types within 1km of A27 road in Utrecht
+Question 418: To what extent does traffic congestion reduce because of expansion of the A27 highway
+Question 419: What is the walkability of Utrecht
+Question 420: Where are the neighborhoods that are least suitable for walking in Utrecht
+Question 421: What is the accessibility of residential units to public waste collectors for glass, paper, plastic, and textile in Utrecht city
+Question 422: Is the distribution of health facilities consistent with the population distribution in Riverside-San Bernardino, CA
+Question 428: What parcels are within the 100-year floodplain in the Netherlands
+Question 429: Is the A27 highway within Utrecht
+Question 432: What are the crime rates in each police district of Texas for last year
+Question 441: What is the spatial accessibility to public trains from points of interests in Melbourne, Australia
+Question 453: What are the areas with high concentration of rental units in Utrecht
+Question 459: What is the portion of owner-occupied houses for the Hispanic population in Tarrant County, Texas
+Question 466: What are the zones of strict drug enforcement around playgrounds in the Netherlands
+Question 467: What are the zones of strict drug enforcement around arcades in the Netherlands
+Question 468: What will be the long-term consequences of forestry for the conservation area in Zdarske Vrchy
+Question 469: In which order should some stores be visited in Utrecht?
+Question 470: How scattered is the West Nile virus in New York?
+Question 477: Where are the areas closing to major transport routes in Amsterdam
+Question 478: Where are the areas with a potential catchment of over 10000 customers
+Question 479: What is the mean center of all the incident calls for each alarm territories in Fort Worth in 2007
+Question 480: What is the central fire station in Fort Worth
+Question 481: What is the weighted mean center for all the incident calls for each alarm territories in Fort Worth
+Question 482: What is the central fire station for the most dangerous incidents in Fort Worth
+
+Keep 106
+
+Question 77:  Where should landscape conservation zones be established in Zdarske Vrchy
+Question 115: Where should landscape conservation zones be established
+Remove 115
+
+Question 369: Where are clusters of injured pedestrians in Georgia, 2000-2007
+Question 370: Where are clusters of injured pedestrians in Georgia, 2000-2007
+Remove 370
